@@ -1,8 +1,4 @@
 
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo4274
-Fork on GitHub795
 <h1 align="center">Hello! I'm Angel</h1>
 <h3 align="center">your next Full-Stack Software Engineer currently based in Sonora, Mexico.</h3>
 
