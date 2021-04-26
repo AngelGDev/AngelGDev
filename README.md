@@ -1,7 +1,3 @@
-### Hi there 👋
-
-<!--
-**AngelGDev/AngelGDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 github profile markdown generator logo
 GitHub Profile README Generator
