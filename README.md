@@ -2,8 +2,6 @@
 <h1 align="center">Hello! I'm Angel</h1>
 <h3 align="center">your next Full-Stack Software Engineer currently based in Sonora, Mexico.</h3>
 
-- 🔭 I’m currently working on **a video chat application geared towards online coaching and practice for several skills.**
-
 - 🌱 I’m currently learning **Next.js**
 
 - 👯 I’m looking to collaborate on **projects to support minorities grow in the tech space**
